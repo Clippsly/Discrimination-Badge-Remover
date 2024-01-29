@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Social Badge Remover",
+  "version": "1.0",
+  "description": "Remove verified badge from Roblox. Stop discrimination on the social media!",
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "author": "support@clippsly.com",
+  "content_scripts": [
+    {
+      "matches": ["*://*.roblox.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
