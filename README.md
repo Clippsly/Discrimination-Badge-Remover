@@ -31,10 +31,10 @@ Remove verified badge from Roblox. Stop discrimination on the social media!
    - Click **Select Folder** to load the extension into Chrome.
 
 7. **Confirmation**
-   - You should see the Discrimination-Badge-Remover extension added to your list of Chrome extensions.
+   - You should see the Discrimination Badge Remover extension added to your list of Chrome extensions.
 
 8. **Enable the Extension**
-   - Toggle the switch next to the Discrimination-Badge-Remover extension to enable it.
+   - Toggle the switch next to the Discrimination Badge Remover extension to enable it.
 
 9. **Verify**
-   - Visit Roblox and observe that the verified badge is removed from the social media platform.
+   - Visit Roblox and observe that the verified badge is removed from the Roblox website.
