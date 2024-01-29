@@ -6,7 +6,7 @@ Remove verified badge from Roblox. Stop discrimination on the social media!
 ## Installation Guide
 
 ### Prerequisites
-- Google Chrome Browser
+- Google Chrome Browser or any other Chromium based browser.
 
 ### Steps
 
