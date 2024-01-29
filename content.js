@@ -3,7 +3,7 @@ function removeElementsWithVerifiedBadge() {
 
   const removeElements = () => {
     // For roblox.com
-    const robloxElements = document.querySelectorAll('[data-rblx-verified-badge-icon=""]');
+    const robloxElements = document.querySelectorAll('[data-rblx-verified-badge-icon=""], [title="Verified Badge Icon"]');
     robloxElements.forEach((element) => {
       element.remove();
     });
