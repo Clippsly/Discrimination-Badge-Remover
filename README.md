@@ -1,4 +1,4 @@
-# Discrimination-Badge-Remover
+# Discrimination Badge Remover
 
 ## About
 Remove verified badge from Roblox. Stop discrimination on the social media!
